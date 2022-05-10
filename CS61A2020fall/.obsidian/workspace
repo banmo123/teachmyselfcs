@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "b314b31582e84306",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7180a88acf4960e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Week2/2_3.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1eb76429c049408a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d5e0f7c397e5f68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f590ee556afc99f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9bf91dd98c7d0ceb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "right": {
+    "id": "9a6d5ef592c18efc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7df5dd46d4596e6",
+        "type": "tabs",
+        "dimension": 74.09326424870466,
+        "children": [
+          {
+            "id": "6a670398bb19c4d5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Week2/05-Environments_1pp.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "285e7af13618d24e",
+        "type": "tabs",
+        "dimension": 25.906735751295333,
+        "children": [
+          {
+            "id": "5de6b4ea3e542699",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Week2/2_3.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "773f5d7130b69016",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Week2/2_3.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 740
+  },
+  "active": "f7180a88acf4960e",
+  "lastOpenFiles": [
+    "Week2/2_3.md",
+    "Week2/2_2.md",
+    "Week2/05-Environments_1pp.pdf",
+    "Week2/lab01/2_3.md",
+    "Week2/2_1.md",
+    "Week1/1_1.md",
+    "Week1/1_2.md",
+    "Week2/04-Higher-Order_Functions_1pp.pdf",
+    "Week1/02-Functions_1pp.pdf",
+    "Week1/01-Computer_Science_1pp.pdf"
+  ]
+}
