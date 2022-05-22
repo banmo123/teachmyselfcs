@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "88f04d2cebe6f8e4",
+        "id": "a62e2b3b507be607",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Week3/3_2.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a5e43de618d07023",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Pasted image 20220519215514.png"
+          }
+        }
+      },
+      {
+        "id": "e60aab307850c23a",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Week3/disc02.pdf"
+          }
         }
       }
     ],
@@ -49,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 171
+    "width": 100
   },
   "right": {
     "id": "9a6d5ef592c18efc",
@@ -65,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pasted image 20220519215514.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pasted image 20220519215514.png"
+              }
             }
           }
         ],
@@ -88,19 +115,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219
+    "width": 216.33334350585938
   },
-  "active": "88f04d2cebe6f8e4",
+  "active": "a5e43de618d07023",
   "lastOpenFiles": [
+    "Pasted image 20220519215514.png",
+    "Week3/3_2.md",
     "Week2/2_3.md",
+    "Week2/2_1.md",
     "Week2/2_2.md",
+    "Week3/disc02.pdf",
+    "Week3/song.wav",
     "Week2/05-Environments_1pp.pdf",
     "Week2/lab01/2_3.md",
-    "Week2/2_1.md",
-    "Week1/1_1.md",
-    "Week1/1_2.md",
-    "Week2/04-Higher-Order_Functions_1pp.pdf",
-    "Week1/02-Functions_1pp.pdf",
-    "Week1/01-Computer_Science_1pp.pdf"
+    "Week1/1_1.md"
   ]
 }
