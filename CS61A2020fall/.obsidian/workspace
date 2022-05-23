@@ -4,34 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "a62e2b3b507be607",
+        "id": "593f6533078ce88d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Week3/3_2.md",
+            "file": "Week3/3_3FunctionExample.md",
             "mode": "source",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "a5e43de618d07023",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "Pasted image 20220519215514.png"
-          }
-        }
-      },
-      {
-        "id": "e60aab307850c23a",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Week3/disc02.pdf"
           }
         }
       }
@@ -89,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20220519215514.png",
+                "file": "Week3/3_3FunctionExample.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20220519215514.png"
+                "file": "Week3/3_3FunctionExample.md"
               }
             }
           }
@@ -117,17 +97,17 @@
     "direction": "horizontal",
     "width": 216.33334350585938
   },
-  "active": "a5e43de618d07023",
+  "active": "593f6533078ce88d",
   "lastOpenFiles": [
-    "Pasted image 20220519215514.png",
+    "Week3/3_3FunctionExample.md",
     "Week3/3_2.md",
+    "Pasted image 20220519215514.png",
     "Week2/2_3.md",
     "Week2/2_1.md",
     "Week2/2_2.md",
     "Week3/disc02.pdf",
     "Week3/song.wav",
     "Week2/05-Environments_1pp.pdf",
-    "Week2/lab01/2_3.md",
-    "Week1/1_1.md"
+    "Week2/lab01/2_3.md"
   ]
 }
