@@ -1,3 +1,4 @@
+# Function Example
 ## Describing Functions
 了解函数的三个步骤：1.阅读源码；2.阅读描述信息；3.举例
 ```python
@@ -68,3 +69,43 @@ def remove(n, digit):
             digits = digits + 1
     return kept
 ```
+## Q&A
+```python
+def repeat(k):
+    """When called repeatedly, print each repeated argument
+
+    >>> f = repeat(1)(7)(7)(3)(4)(2)(5)(1)(6)(5)(1)
+    7
+    1
+    5
+    1
+    """
+    return _____(k)
+
+def detector(f):
+    def g(i):
+        if ___:
+            ____
+        return ___
+    return g
+
+
+def repeat(k):
+    """When called repeatedly, print each repeated argument
+
+    >>> f = repeat(1)(7)(7)(3)(4)(2)(5)(1)(6)(5)(1)
+    7
+    1
+    5
+    1
+    """
+    return detector(lambda j: False)(k)
+
+def detector(f):
+    def g(i):
+        if f(i):
+            print(i)
+        return detector(lambda j: j == i or f(j))
+    return g
+```
+首先，`repeat()`是一个柯里化的函数，它应该是一个可以不停接受新的参数的函数，因此它的返回值必定是一个有参数的函数`_____(k)`，这个地方应该就是`detector()`函数了，继续观察`detector()`函数，它含有一个函数参数f，之后接受一个数值参数i，此i应该是要比值的各个数字，因为`repeat()`要打印之前见过的数值，因此if后一句应该是`print(i)`，而if后接的应该是判断i是否重复出现过的，这里的`f`函数可以作为判断是否重复出现过的函数，return后面应该是一个有参数的函数而且不停的执行与`detector()`相同的功能，继续接受后面的数字，这个数字与前面的所有数字进行比较，首先与其相邻的上一个数字相比，然后利用递归的思想（有点形而上学）与前面的数字比较，直到前面没有数字比较了，就返回`False`
